@@ -1,2 +1,2 @@
 # data-visualizations
-Visualization Repository
+Visualization Repository with reports and details of data used and dashboards
